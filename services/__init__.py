@@ -8,7 +8,7 @@ class BaseService:
         self.SERVICE_URL = SERVICE_URL
         self.SERVICE_NAME = SERVICE_NAME
         self.PLAYLIST_PATH = os.path.join(
-            PLAYLISTS_DIR, self.SERVICE_NAME.lower() + ".m3u")
+            PLAYLISTS_DIR, self.SERVICE_NAME.lower() + ".json")
 
         self.requests_session = requests.Session()
 
