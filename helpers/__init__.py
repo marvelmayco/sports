@@ -18,52 +18,19 @@ def get_base_url(url: str) -> str:
 
 
 def generate_playlist(service_name: str, data: List[Dict[str, Dict]]) -> str:
-    playlist_splitted = ["#EXTM3U"]
-
-    with open(os.path.join(RESOURCES_DIR, "playlist-header.txt"), encoding="utf-8") as file:
-        header_template = Template(file.read())
-
-    current_time = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
-
-    playlist_splitted.append("\n" + header_template.render(
-        time_of_update=current_time,
-        service_name=service_name,
-        num_of_channels=str(len(data))
-    ) + "\n")
-
+    playlist_data = []
     for channel in data:
-        channel_name = channel.get("name")
-        channel_logo = channel.get("logo")
-        channel_group = channel.get("group")
-        channel_url = channel.get("stream-url")
-        channel_headers = channel.get("headers")
+        channel_info = {
+            "name": channel.get("name"),
+            "logo": channel.get("logo"),
+            "group": channel.get("group"),
+            "url": channel.get("stream-url"),
+            "headers": channel.get("headers", {})
+        }
 
-        playlist_splitted.append(
-            f'#EXTINF:-1 tvg-name="{channel_name}" tvg-logo="{channel_logo}" group-title="{channel_group}",{channel_name}')
+        playlist_data.append(channel_info)
 
-        channel_referer = channel_headers.get("referer")
-        if channel_referer:
-            playlist_splitted.append(
-                f"#EXTVLCOPT:http-referrer={channel_referer}")
-
-            channel_headers.pop("referer")
-
-        channel_UA = channel_headers.get("user-agent")
-        if channel_UA:
-            playlist_splitted.append(
-                f"#EXTVLCOPT:http-user-agent={channel_UA}")
-
-            channel_headers.pop("user-agent")
-
-        if channel_headers:
-            playlist_splitted.append("EXTHTTP:" + json.dumps(channel_headers))
-
-        playlist_splitted.append(channel_url)
-
-        playlist_splitted.append("")
-
-    playlist = "\n".join(playlist_splitted)
-    return playlist
+    return json.dumps(playlist_data, indent=4)
 
 
 def get_logo_url(channel_name: str) -> str:
