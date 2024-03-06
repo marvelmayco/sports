@@ -300,46 +300,6 @@
         }
     },
     {
-        "name": "BEIN SPORTS 1",
-        "logo": "https://image.24hsport.tv/tvs/40.png",
-        "group": "France Channels",
-        "url": "https://gelive.score806.cc/fr_beinsports1/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "BEIN SPORTS 2",
-        "logo": "https://image.24hsport.tv/tvs/41.png",
-        "group": "France Channels",
-        "url": "https://gelive.score806.cc/fr_beinsports2/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "RMC SPORT 1",
-        "logo": "https://image.24hsport.tv/tvs/13.png",
-        "group": "France Channels",
-        "url": "https://gelive.score806.cc/fr_rmcsport1/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "RMC SPORT 2",
-        "logo": "https://image.24hsport.tv/upload/Livetv/RMC_SPORT_2.png",
-        "group": "France Channels",
-        "url": "https://gelive.score806.cc/fr_rmcsport2/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
         "name": "Eleven Sport 1",
         "logo": "https://image.24hsport.tv/tvs/33.png",
         "group": "Portugal Channels",
