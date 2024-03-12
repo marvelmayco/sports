@@ -1,7 +1,7 @@
 [
     {
         "name": "TNT SPORT 1",
-        "logo": "https://image.24hsport.tv/upload/Livetv/tntsport1.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/tntsport1.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bts1/index.m3u8",
         "headers": {
@@ -11,7 +11,7 @@
     },
     {
         "name": "TNT SPORT 2",
-        "logo": "https://image.24hsport.tv/upload/Livetv/tntsport2.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/tntsport2.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bts2/index.m3u8",
         "headers": {
@@ -21,9 +21,9 @@
     },
     {
         "name": "TNT SPORT 3",
-        "logo": "https://image.24hsport.tv/upload/Livetv/tntsport3.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/tntsport3.png",
         "group": "UK Channels",
-        "url": "https://labsec.score806.cc/wxu3aWHrW37I1tbHktKpG8CdIAPkf9va0BVEkmlfub0=/1710276078229/live2/uk_bts3/index.m3u8",
+        "url": "https://labsec.score806.cc/xRcIIgoodSmyq45gIoVV0j+sydgbBmfdq3f0aUtruVI=/1710276701201/live2/uk_bts3/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -31,7 +31,7 @@
     },
     {
         "name": "PREMIER SPORTS 1",
-        "logo": "https://image.24hsport.tv/upload/Livetv/Premier Sports1.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/Premier Sports1.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_premiersports1/index.m3u8",
         "headers": {
@@ -41,7 +41,7 @@
     },
     {
         "name": "PREMIER SPORTS 2",
-        "logo": "https://image.24hsport.tv/upload/Livetv/Premier Sports 2.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/Premier Sports 2.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_premiersports2/index.m3u8",
         "headers": {
@@ -51,7 +51,7 @@
     },
     {
         "name": "Sky Sports Football",
-        "logo": "https://image.24hsport.tv/upload/Livetv/skysports-football.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/skysports-football.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssfb/index.m3u8",
         "headers": {
@@ -61,7 +61,7 @@
     },
     {
         "name": "Sky Sports Premier League",
-        "logo": "https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/skysports-premierleague.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssepl/index.m3u8",
         "headers": {
@@ -71,7 +71,7 @@
     },
     {
         "name": "Sky Sports Main Event",
-        "logo": "https://image.24hsport.tv/upload/Livetv/sky-sport-main.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/sky-sport-main.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssmain/index.m3u8",
         "headers": {
@@ -81,7 +81,7 @@
     },
     {
         "name": "Sky Sports Criket",
-        "logo": "https://image.24hsport.tv/upload/Livetv/skysports-cricket.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/skysports-cricket.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_sscricket/index.m3u8",
         "headers": {
@@ -91,7 +91,7 @@
     },
     {
         "name": "Sky Sports F1",
-        "logo": "https://image.24hsport.tv/upload/Livetv/skysports-f1.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/skysports-f1.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssf1/index.m3u8",
         "headers": {
@@ -101,7 +101,7 @@
     },
     {
         "name": "Sky Sports Golf",
-        "logo": "https://image.24hsport.tv/upload/Livetv/skysports-golf.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/skysports-golf.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssgolf/index.m3u8",
         "headers": {
@@ -111,7 +111,7 @@
     },
     {
         "name": "Sky Sports Mix",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ukssmix.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ukssmix.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssmix/index.m3u8",
         "headers": {
@@ -121,7 +121,7 @@
     },
     {
         "name": "Sky Sports News",
-        "logo": "https://image.24hsport.tv/upload/Livetv/skysports-news.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/skysports-news.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssnews/index.m3u8",
         "headers": {
@@ -131,7 +131,7 @@
     },
     {
         "name": "BBC One",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ukbbc1.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ukbbc1.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bbc1/index.m3u8",
         "headers": {
@@ -141,7 +141,7 @@
     },
     {
         "name": "BBC Two",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ukbbc2.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ukbbc2.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bbc2/index.m3u8",
         "headers": {
@@ -151,7 +151,7 @@
     },
     {
         "name": "BBC Three",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ukbbc3.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ukbbc3.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bbc3/index.m3u8",
         "headers": {
@@ -161,7 +161,7 @@
     },
     {
         "name": "ITV 1",
-        "logo": "https://image.24hsport.tv/tvs/104.png",
+        "logo": "https://image.acdsport.com/tvs/104.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc//uk_itv1/index.m3u8",
         "headers": {
@@ -171,7 +171,7 @@
     },
     {
         "name": "ITV 2",
-        "logo": "https://image.24hsport.tv/tvs/105.png",
+        "logo": "https://image.acdsport.com/tvs/105.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_itv2/index.m3u8",
         "headers": {
@@ -181,7 +181,7 @@
     },
     {
         "name": "Channel 4",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ukchannel4.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ukchannel4.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_channel4/index.m3u8",
         "headers": {
@@ -191,7 +191,7 @@
     },
     {
         "name": "Channel 5",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ukchannel5.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ukchannel5.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_channel5/index.m3u8",
         "headers": {
@@ -201,7 +201,7 @@
     },
     {
         "name": "BBC World News",
-        "logo": "https://image.24hsport.tv/tvs/67.png",
+        "logo": "https://image.acdsport.com/tvs/67.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bbcnews/index.m3u8",
         "headers": {
@@ -211,7 +211,7 @@
     },
     {
         "name": "MTV",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ukmtv.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ukmtv.png",
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_mtv/index.m3u8",
         "headers": {
@@ -221,7 +221,7 @@
     },
     {
         "name": "FS1",
-        "logo": "https://image.24hsport.tv/upload/Livetv/usfs1.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/usfs1.png",
         "group": "US Channels",
         "url": "https://us.score806.cc/us_fs1/index.m3u8",
         "headers": {
@@ -231,7 +231,7 @@
     },
     {
         "name": "FS2",
-        "logo": "https://image.24hsport.tv/upload/Livetv/usfs2.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/usfs2.png",
         "group": "US Channels",
         "url": "https://us.score806.cc/us_fs2/index.m3u8",
         "headers": {
@@ -241,7 +241,7 @@
     },
     {
         "name": "USA Network",
-        "logo": "https://image.24hsport.tv/tvs/88.png",
+        "logo": "https://image.acdsport.com/tvs/88.png",
         "group": "US Channels",
         "url": "https://us.score806.cc/us_usa/index.m3u8",
         "headers": {
@@ -251,7 +251,7 @@
     },
     {
         "name": "NFL Network",
-        "logo": "https://image.24hsport.tv/upload/Livetv/nfl-network.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/nfl-network.png",
         "group": "US Channels",
         "url": "https://us.score806.cc/us_nflnetwork/index.m3u8",
         "headers": {
@@ -261,7 +261,7 @@
     },
     {
         "name": "CBS Sports Network",
-        "logo": "https://image.24hsport.tv/tvs/70.png",
+        "logo": "https://image.acdsport.com/tvs/70.png",
         "group": "US Channels",
         "url": "https://us.score806.cc/us_cbssportsnetwork/index.m3u8",
         "headers": {
@@ -271,7 +271,7 @@
     },
     {
         "name": "NBA TV",
-        "logo": "https://image.24hsport.tv/upload/tvs/43.png",
+        "logo": "https://image.acdsport.com/upload/tvs/43.png",
         "group": "US Channels",
         "url": "https://us.score806.cc/us_nbatv/index.m3u8",
         "headers": {
@@ -281,7 +281,7 @@
     },
     {
         "name": "Willow Cricket",
-        "logo": "https://image.24hsport.tv/upload/Livetv/uswillow.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/uswillow.png",
         "group": "US Channels",
         "url": "https://us.score806.cc/us_willow/index.m3u8",
         "headers": {
@@ -291,7 +291,7 @@
     },
     {
         "name": "WWE Network",
-        "logo": "https://image.24hsport.tv/tvs/117.png",
+        "logo": "https://image.acdsport.com/tvs/117.png",
         "group": "US Channels",
         "url": "https://us.score806.cc/us_wwe/index.m3u8",
         "headers": {
@@ -301,7 +301,7 @@
     },
     {
         "name": "BEIN SPORTS 1",
-        "logo": "https://image.24hsport.tv/tvs/40.png",
+        "logo": "https://image.acdsport.com/tvs/40.png",
         "group": "France Channels",
         "url": "https://gelive.score806.cc/fr_beinsports1/index.m3u8",
         "headers": {
@@ -311,7 +311,7 @@
     },
     {
         "name": "BEIN SPORTS 2",
-        "logo": "https://image.24hsport.tv/tvs/41.png",
+        "logo": "https://image.acdsport.com/tvs/41.png",
         "group": "France Channels",
         "url": "https://gelive.score806.cc/fr_beinsports2/index.m3u8",
         "headers": {
@@ -321,7 +321,7 @@
     },
     {
         "name": "RMC SPORT 1",
-        "logo": "https://image.24hsport.tv/tvs/13.png",
+        "logo": "https://image.acdsport.com/tvs/13.png",
         "group": "France Channels",
         "url": "https://gelive.score806.cc/fr_rmcsport1/index.m3u8",
         "headers": {
@@ -331,7 +331,7 @@
     },
     {
         "name": "RMC SPORT 2",
-        "logo": "https://image.24hsport.tv/upload/Livetv/RMC_SPORT_2.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/RMC_SPORT_2.png",
         "group": "France Channels",
         "url": "https://gelive.score806.cc/fr_rmcsport2/index.m3u8",
         "headers": {
@@ -341,7 +341,7 @@
     },
     {
         "name": "Eleven Sport 1",
-        "logo": "https://image.24hsport.tv/tvs/33.png",
+        "logo": "https://image.acdsport.com/tvs/33.png",
         "group": "Portugal Channels",
         "url": "https://gelive.score806.cc/pt_elevensport1/index.m3u8",
         "headers": {
@@ -351,7 +351,7 @@
     },
     {
         "name": "Eleven Sport 2",
-        "logo": "https://image.24hsport.tv/tvs/32.png",
+        "logo": "https://image.acdsport.com/tvs/32.png",
         "group": "Portugal Channels",
         "url": "https://gelive.score806.cc/pt_elevensport2/index.m3u8",
         "headers": {
@@ -361,7 +361,7 @@
     },
     {
         "name": "Eleven Sport 3",
-        "logo": "https://image.24hsport.tv/tvs/31.png",
+        "logo": "https://image.acdsport.com/tvs/31.png",
         "group": "Portugal Channels",
         "url": "https://gelive.score806.cc/pt_elevensport3/index.m3u8",
         "headers": {
@@ -371,7 +371,7 @@
     },
     {
         "name": "Sport TV 1",
-        "logo": "https://image.24hsport.tv/tvs/36.png",
+        "logo": "https://image.acdsport.com/tvs/36.png",
         "group": "Portugal Channels",
         "url": "https://gelive.score806.cc/pt_sporttv1/index.m3u8",
         "headers": {
@@ -381,7 +381,7 @@
     },
     {
         "name": "Sport TV 2",
-        "logo": "https://image.24hsport.tv/tvs/37.png",
+        "logo": "https://image.acdsport.com/tvs/37.png",
         "group": "Portugal Channels",
         "url": "https://gelive.score806.cc/pt_sporttv2/index.m3u8",
         "headers": {
@@ -391,7 +391,7 @@
     },
     {
         "name": "Sport TV 3",
-        "logo": "https://image.24hsport.tv/tvs/38.png",
+        "logo": "https://image.acdsport.com/tvs/38.png",
         "group": "Portugal Channels",
         "url": "https://gelive.score806.cc/pt_sporttv3/index.m3u8",
         "headers": {
@@ -401,7 +401,7 @@
     },
     {
         "name": "Super Sport Football",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ss-football.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ss-football.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_ssfb/index.m3u8",
         "headers": {
@@ -411,7 +411,7 @@
     },
     {
         "name": "Super Sport Premier League",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ss-premierleague.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ss-premierleague.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_sspl/index.m3u8",
         "headers": {
@@ -421,7 +421,7 @@
     },
     {
         "name": "Super Sport Laliga",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ss-laliga.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ss-laliga.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_ssliga/index.m3u8",
         "headers": {
@@ -431,7 +431,7 @@
     },
     {
         "name": "Super Sport Action",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ss-action.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ss-action.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_ssact/index.m3u8",
         "headers": {
@@ -441,7 +441,7 @@
     },
     {
         "name": "Super Sport Golf",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ss-golf.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ss-golf.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_ssgolf/index.m3u8",
         "headers": {
@@ -451,7 +451,7 @@
     },
     {
         "name": "Super Sport Rugby",
-        "logo": "https://image.24hsport.tv/upload/Livetv/zassrugby.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/zassrugby.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_ssrugby/index.m3u8",
         "headers": {
@@ -461,7 +461,7 @@
     },
     {
         "name": "Super Sport Tennis",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ss-tennis.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ss-tennis.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_sstennis/index.m3u8",
         "headers": {
@@ -471,7 +471,7 @@
     },
     {
         "name": "Super Sport Variety 1",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ss-variety1.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ss-variety1.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_ssvariety1/index.m3u8",
         "headers": {
@@ -481,7 +481,7 @@
     },
     {
         "name": "Super Sport Variety 2",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ss-variety2.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ss-variety2.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_ssvariety2/index.m3u8",
         "headers": {
@@ -491,7 +491,7 @@
     },
     {
         "name": "Super Sport Cricket",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ss-cricket.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ss-cricket.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_sscricket/index.m3u8",
         "headers": {
@@ -501,7 +501,7 @@
     },
     {
         "name": "Super Sport PSL",
-        "logo": "https://image.24hsport.tv/upload/Livetv/ss-psl.png",
+        "logo": "https://image.acdsport.com/upload/Livetv/ss-psl.png",
         "group": "DSTV Channels",
         "url": "https://gelive.score806.cc/za_sspsl/index.m3u8",
         "headers": {
