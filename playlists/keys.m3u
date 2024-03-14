@@ -1,4 +1,4 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key="a2c22812093c4d16ad3e4180639a9579:6f0dd61d4ea71e912f813a495205242c"
-#EXTINF:-1 tvg-id=ts1276 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ID-HD-LOGO_2000_X_1125_Transpharent.png" group-title="Tata Sky",Investigation Discovery HD
+#EXTINF:-1 tvg-id=ts1276 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ID-HD-LOGO_2000_X_1125_Transpharent.png" group-title="Tata Sky",Investigation Test
 https://delta45tatasky.akamaized.net/out/i/722.mpd
