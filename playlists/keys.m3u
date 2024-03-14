@@ -1,0 +1,4 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="a6cfd08ccc1b5920a2bebce8a061cfdc:e654b5b017d9a1665ab475bb9365e05e"
+#EXTINF:-1 tvg-id=ts1276 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ID-HD-LOGO_2000_X_1125_Transpharent.png" group-title="Tata Sky",Investigation Discovery HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
