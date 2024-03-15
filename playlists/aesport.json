@@ -23,7 +23,7 @@
         "name": "TNT SPORT 3",
         "logo": "https://image.acdsport.com/upload/Livetv/tntsport3.png",
         "group": "UK Channels",
-        "url": "https://nlsec.score806.cc/BUz2TUHdBhm+hSU9+dWOJTDhBJ20aEUT6Uz4rRaiK2w=/1710528611234/uk_bts3/index.m3u8",
+        "url": "https://gelive.score806.cc/uk_bts3/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -223,7 +223,7 @@
         "name": "FS1",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs1.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/SApfup5d2JY59ztUwr26yuFOPB9QK+ht+1uiJuxut5g=/1710528611710/us_fs1/index.m3u8",
+        "url": "https://ussec.score806.cc/16M39bSlHa5x72wUFFVp95BDsCr54JbaLJE020I+mlg=/1710529252078/us_fs1/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
