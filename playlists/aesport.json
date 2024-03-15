@@ -223,7 +223,7 @@
         "name": "FS1",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs1.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/GftsZ1uCe4k4RopHgf3Qn73KY9mIDuQzlXOg6mRlNkA=/1710508051927/us_fs1/index.m3u8",
+        "url": "https://ussec.score806.cc/m+7ejOdRXKvz3sn1CJFLx7DkUzx_cPlAsqgbZ5Aeq9M=/1710508786693/us_fs1/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -394,116 +394,6 @@
         "logo": "https://image.acdsport.com/tvs/38.png",
         "group": "Portugal Channels",
         "url": "https://gelive.score806.cc/pt_sporttv3/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport Football",
-        "logo": "https://image.acdsport.com/upload/Livetv/ss-football.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_ssfb/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport Premier League",
-        "logo": "https://image.acdsport.com/upload/Livetv/ss-premierleague.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_sspl/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport Laliga",
-        "logo": "https://image.acdsport.com/upload/Livetv/ss-laliga.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_ssliga/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport Action",
-        "logo": "https://image.acdsport.com/upload/Livetv/ss-action.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_ssact/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport Golf",
-        "logo": "https://image.acdsport.com/upload/Livetv/ss-golf.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_ssgolf/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport Rugby",
-        "logo": "https://image.acdsport.com/upload/Livetv/zassrugby.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_ssrugby/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport Tennis",
-        "logo": "https://image.acdsport.com/upload/Livetv/ss-tennis.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_sstennis/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport Variety 1",
-        "logo": "https://image.acdsport.com/upload/Livetv/ss-variety1.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_ssvariety1/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport Variety 2",
-        "logo": "https://image.acdsport.com/upload/Livetv/ss-variety2.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_ssvariety2/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport Cricket",
-        "logo": "https://image.acdsport.com/upload/Livetv/ss-cricket.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_sscricket/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "Super Sport PSL",
-        "logo": "https://image.acdsport.com/upload/Livetv/ss-psl.png",
-        "group": "DSTV Channels",
-        "url": "https://gelive.score806.cc/za_sspsl/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
