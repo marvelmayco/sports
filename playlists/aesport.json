@@ -253,7 +253,7 @@
         "name": "NFL Network",
         "logo": "https://image.acdsport.com/upload/Livetv/nfl-network.png",
         "group": "US Channels",
-        "url": "https://gelive.score806.cc/us_nflnetwork/index.m3u8",
+        "url": "https://us.score806.cc/us_nflnetwork/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -263,7 +263,7 @@
         "name": "CBS Sports Network",
         "logo": "https://image.acdsport.com/tvs/70.png",
         "group": "US Channels",
-        "url": "https://gelive.score806.cc/us_cbssportsnetwork/index.m3u8",
+        "url": "https://us.score806.cc/us_cbssportsnetwork/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -283,7 +283,7 @@
         "name": "Willow Cricket",
         "logo": "https://image.acdsport.com/upload/Livetv/uswillow.png",
         "group": "US Channels",
-        "url": "https://gelive.score806.cc/us_willow/index.m3u8",
+        "url": "https://us.score806.cc/us_willow/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -293,7 +293,7 @@
         "name": "WWE Network",
         "logo": "https://image.acdsport.com/tvs/117.png",
         "group": "US Channels",
-        "url": "https://gelive.score806.cc/us_wwe/index.m3u8",
+        "url": "https://us.score806.cc/us_wwe/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
