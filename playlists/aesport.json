@@ -223,7 +223,7 @@
         "name": "FS1",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs1.png",
         "group": "US Channels",
-        "url": "https://nlsec.score806.cc/9f2oRuzaZeumplrrmwx4LvNrlENQi10cS9F3U8lYEFA=/1710616229492/us_fs1/index.m3u8",
+        "url": "https://us.score806.cc/us_fs1/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -233,7 +233,7 @@
         "name": "FS2",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs2.png",
         "group": "US Channels",
-        "url": "https://gelive.score806.cc/us_fs2/index.m3u8",
+        "url": "https://us.score806.cc/us_fs2/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -243,7 +243,7 @@
         "name": "USA Network",
         "logo": "https://image.acdsport.com/tvs/88.png",
         "group": "US Channels",
-        "url": "https://gelive.score806.cc/us_usa/index.m3u8",
+        "url": "https://us.score806.cc/us_usa/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
