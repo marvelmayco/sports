@@ -23,7 +23,7 @@
         "name": "TNT SPORT 3",
         "logo": "https://image.acdsport.com/upload/Livetv/tntsport3.png",
         "group": "UK Channels",
-        "url": "https://nlsec.score806.cc/CFbt2v1ivpSomcNmagWGcQWxUXyVIPuZ+wnD9fqahFo=/1710595224625/uk_bts3/index.m3u8",
+        "url": "https://nlsec.score806.cc/l5mmrOXQ1lOAUp6wcWZPzKkv9SJY9NSUdE9KAmpYzRA=/1710595863238/uk_bts3/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -223,7 +223,7 @@
         "name": "FS1",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs1.png",
         "group": "US Channels",
-        "url": "https://nlsec.score806.cc/COkV9bsBrA2QMf1a3Rxk02MjjclnmEdOs1zNS47RnRU=/1710595225063/us_fs1/index.m3u8",
+        "url": "https://nlsec.score806.cc/yesqozd4oWjz47RI73SyhWt4jCTESGaZCLib59njEXA=/1710595863684/us_fs1/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -273,7 +273,7 @@
         "name": "NBA TV",
         "logo": "https://image.acdsport.com/upload/tvs/43.png",
         "group": "US Channels",
-        "url": "https://vnplgelive.score806.cc/us_nbatv/index.m3u8",
+        "url": "https://vnplus.score806.cc/us_nbatv/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
