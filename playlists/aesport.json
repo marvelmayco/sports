@@ -23,7 +23,7 @@
         "name": "TNT SPORT 3",
         "logo": "https://image.acdsport.com/upload/Livetv/tntsport3.png",
         "group": "UK Channels",
-        "url": "https://nlsec.score806.cc/VYLGiSLU0hNjAJGPB3ALO9_nB19CpgottjviildS3qI=/1710573269488/uk_bts3/index.m3u8",
+        "url": "https://nlsec.score806.cc/TprUKRlP9Dg+2SaUXxGSqr0tteAZk8Ufy3995ED+sEU=/1710573889116/uk_bts3/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -223,7 +223,7 @@
         "name": "FS1",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs1.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/1SPCXJ7H6NW5I8+81w79V0+Ay2wE0_5jv4KQXggYrXc=/1710573269942/us_fs1/index.m3u8",
+        "url": "https://nlsec.score806.cc/foQ4DqzkKRhrBLRq8DCxiMGIpPJ+dCPnrZWfY+IrdmM=/1710573889552/us_fs1/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -233,7 +233,7 @@
         "name": "FS2",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs2.png",
         "group": "US Channels",
-        "url": "https://us.score806.cc/us_fs2/index.m3u8",
+        "url": "https://gelive.score806.cc/us_fs2/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -243,7 +243,7 @@
         "name": "USA Network",
         "logo": "https://image.acdsport.com/tvs/88.png",
         "group": "US Channels",
-        "url": "https://us.score806.cc/us_usa/index.m3u8",
+        "url": "https://gelive.score806.cc/us_usa/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -253,7 +253,7 @@
         "name": "NFL Network",
         "logo": "https://image.acdsport.com/upload/Livetv/nfl-network.png",
         "group": "US Channels",
-        "url": "https://us.score806.cc/us_nflnetwork/index.m3u8",
+        "url": "https://gelive.score806.cc/us_nflnetwork/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -263,7 +263,7 @@
         "name": "CBS Sports Network",
         "logo": "https://image.acdsport.com/tvs/70.png",
         "group": "US Channels",
-        "url": "https://us.score806.cc/us_cbssportsnetwork/index.m3u8",
+        "url": "https://gelive.score806.cc/us_cbssportsnetwork/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -273,7 +273,7 @@
         "name": "NBA TV",
         "logo": "https://image.acdsport.com/upload/tvs/43.png",
         "group": "US Channels",
-        "url": "https://vnplus.score806.cc/us_nbatv/index.m3u8",
+        "url": "https://vnplgelive.score806.cc/us_nbatv/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -283,7 +283,7 @@
         "name": "Willow Cricket",
         "logo": "https://image.acdsport.com/upload/Livetv/uswillow.png",
         "group": "US Channels",
-        "url": "https://us.score806.cc/us_willow/index.m3u8",
+        "url": "https://gelive.score806.cc/us_willow/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -293,7 +293,7 @@
         "name": "WWE Network",
         "logo": "https://image.acdsport.com/tvs/117.png",
         "group": "US Channels",
-        "url": "https://us.score806.cc/us_wwe/index.m3u8",
+        "url": "https://gelive.score806.cc/us_wwe/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
