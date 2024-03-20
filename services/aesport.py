@@ -17,13 +17,14 @@ class AESport(BaseService):
 
         sections_divs = soup.select(".section-focus")
         for section_div in sections_divs:
+            ch_link = section_div.find("a")['href']
             channels_divs = section_div.select(".tv-item")
             for channel_div in channels_divs:
                 channels_data.append({
                     "name": channel_div.select_one("div.channel-name").text.strip(),
                     "logo": channel_div.select_one("img.hide").get("src"),
                     "group": section_div.select_one("div.left").text.strip(),
-                    "stream-url": channel_div.select_one("a").get("href"),
+                    "stream-url": ch_link,
                     #"stream-url": channel_div.select_one("img.preview-tv").get("src").replace("preview.jpg", "index.m3u8"),
                     "headers": {
                         "referer": get_base_url(channel_div.parent.get("href")) + "/",
