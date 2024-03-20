@@ -35,7 +35,8 @@ class AESport(BaseService):
                     "group": group,
                     "stream-url": stream_url,
                     "headers": {
-                        "referer": get_base_url(stream_url) + "/",
+                        #"referer": get_base_url(stream_url) + "/",
+                        "referer": "https://aesport.tv/",
                         "user-agent": self.USER_AGENT
                     }
                 })
