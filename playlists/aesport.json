@@ -1,9 +1,9 @@
 [
     {
-        "name": "TNT SPORT 1-",
+        "name": "TNT SPORT 1",
         "logo": "https://image.acdsport.com/upload/Livetv/tntsport1.png",
         "group": "UK Channels",
-        "url": "https://thumb2.score806.cc/uk_bts1/index.m3u8",
+        "url": "https://thumb.score806.cc/uk_bts1/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
