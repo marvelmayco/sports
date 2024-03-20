@@ -5,7 +5,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bts1/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -15,7 +15,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bts2/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -25,7 +25,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bts3/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -35,7 +35,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_premiersports1/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -45,7 +45,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_premiersports2/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -55,7 +55,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssfb/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -65,7 +65,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssepl/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -75,7 +75,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssmain/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -85,7 +85,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_sscricket/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -95,7 +95,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssf1/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -105,7 +105,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssgolf/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -115,7 +115,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssmix/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -125,7 +125,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_ssnews/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -135,7 +135,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bbc1/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -145,7 +145,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bbc2/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -155,7 +155,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bbc3/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -163,9 +163,9 @@
         "name": "ITV 1",
         "logo": "https://image.acdsport.com/tvs/104.png",
         "group": "UK Channels",
-        "url": "https://gelive.score806.cc//uk_itv1/index.m3u8",
+        "url": "https://gelive.score806.cc/uk_itv1/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -175,7 +175,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_itv2/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -185,7 +185,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_channel4/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -195,7 +195,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_channel5/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -205,7 +205,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_bbcnews/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -215,7 +215,7 @@
         "group": "UK Channels",
         "url": "https://gelive.score806.cc/uk_mtv/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -223,9 +223,9 @@
         "name": "FS1",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs1.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/qyM5wzyquq60qTvXfl0wnwvVo5lzun690GfM_GAs+qQ=/1710982863445/us_fs1/index.m3u8",
+        "url": "https://gelive.score806.cc/us_fs1/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -233,9 +233,9 @@
         "name": "FS2",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs2.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/7ShXrw0psScSmr30zzwp3lUMxkGSj6Vm1RH8IaK+0GU=/1710982863883/us_fs2/index.m3u8",
+        "url": "https://gelive.score806.cc/us_fs2/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -243,9 +243,9 @@
         "name": "USA Network",
         "logo": "https://image.acdsport.com/tvs/88.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/7ggbT3+SRtrwvt4njmKUGJOAJHRBdmuPBBsyfuXDF1w=/1710982864472/us_usa/index.m3u8",
+        "url": "https://gelive.score806.cc/us_usa/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -253,9 +253,9 @@
         "name": "NFL Network",
         "logo": "https://image.acdsport.com/upload/Livetv/nfl-network.png",
         "group": "US Channels",
-        "url": "https://us.score806.cc/us_nflnetwork/index.m3u8",
+        "url": "https://gelive.score806.cc/us_nflnetwork/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -263,9 +263,9 @@
         "name": "CBS Sports Network",
         "logo": "https://image.acdsport.com/tvs/70.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/4gxgdN+h3XaUHo9vhhbuDToLKsZ419ClLsTpcdj6g_k=/1710982865236/us_cbssportsnetwork/index.m3u8",
+        "url": "https://gelive.score806.cc/us_cbssportsnetwork/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -273,9 +273,9 @@
         "name": "NBA TV",
         "logo": "https://image.acdsport.com/upload/tvs/43.png",
         "group": "US Channels",
-        "url": "https://us.score806.cc/us_nbatv/index.m3u8",
+        "url": "https://gelive.score806.cc/us_nbatv/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -283,9 +283,9 @@
         "name": "Willow Cricket",
         "logo": "https://image.acdsport.com/upload/Livetv/uswillow.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/gazF_0gGRDnvvJpn7q+t6mGqV2oe30gxB5fr6XWH2mI=/1710982866379/us_willow/index.m3u8",
+        "url": "https://gelive.score806.cc/us_willow/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -293,9 +293,9 @@
         "name": "WWE Network",
         "logo": "https://image.acdsport.com/tvs/117.png",
         "group": "US Channels",
-        "url": "https://us.score806.cc/us_wwe/index.m3u8",
+        "url": "https://gelive.score806.cc/us_wwe/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -303,9 +303,9 @@
         "name": "BEIN SPORTS 1",
         "logo": "https://image.acdsport.com/tvs/40.png",
         "group": "France Channels",
-        "url": "https://nlsec.score806.cc/bWXU+bSUWJuSAq1NGB1h9cWlaU3Cyz+Z002kEZS7M6s=/1710982867349/fr_beinsports1/index.m3u8",
+        "url": "https://gelive.score806.cc/fr_beinsports1/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -313,9 +313,9 @@
         "name": "BEIN SPORTS 2",
         "logo": "https://image.acdsport.com/tvs/41.png",
         "group": "France Channels",
-        "url": "https://nlsec.score806.cc/ojKDo0bN9ovY3K3zlVpKTUf2JxBgOZcZuFZOv5OAeQo=/1710982867937/fr_beinsports2/index.m3u8",
+        "url": "https://gelive.score806.cc/fr_beinsports2/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -323,9 +323,9 @@
         "name": "RMC SPORT 1",
         "logo": "https://image.acdsport.com/tvs/13.png",
         "group": "France Channels",
-        "url": "https://nlsec.score806.cc/0MpNqqomHTZilA3RU_shCd2yQES3rAKqEQtkmQJHLw0=/1710982868548/fr_rmcsport1/index.m3u8",
+        "url": "https://gelive.score806.cc/fr_rmcsport1/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -333,9 +333,9 @@
         "name": "RMC SPORT 2",
         "logo": "https://image.acdsport.com/upload/Livetv/RMC_SPORT_2.png",
         "group": "France Channels",
-        "url": "https://nlsec.score806.cc/Fr0ho4nfE+ljRFn0k0q1jnhyUex91LgdKuV4g4E8Xu0=/1710982869212/fr_rmcsport2/index.m3u8",
+        "url": "https://gelive.score806.cc/fr_rmcsport2/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -343,9 +343,9 @@
         "name": "Eleven Sport 1",
         "logo": "https://image.acdsport.com/tvs/33.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/AJ+rtdujWu+eXTfUoYyVsnZ952ps+AMaSW+xuJvDr+M=/1710982869829/pt_elevensport1/index.m3u8",
+        "url": "https://gelive.score806.cc/pt_elevensport1/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -353,9 +353,9 @@
         "name": "Eleven Sport 2",
         "logo": "https://image.acdsport.com/tvs/32.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/37xnpEGv1lOOh9WSEWpZLNGDWvE4QBpwjseWSheZR5o=/1710982870251/pt_elevensport2/index.m3u8",
+        "url": "https://gelive.score806.cc/pt_elevensport2/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -363,9 +363,9 @@
         "name": "Eleven Sport 3",
         "logo": "https://image.acdsport.com/tvs/31.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/lx6ybctF3Dg5Omzgb5W0x6CKxxEX1gIJCdYGpH6ZFTY=/1710982870843/pt_elevensport3/index.m3u8",
+        "url": "https://gelive.score806.cc/pt_elevensport3/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -373,9 +373,9 @@
         "name": "Sport TV 1",
         "logo": "https://image.acdsport.com/tvs/36.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/4qvrPP9pei1+M6RuWlADdW4480uHEziFLQXSn1MKtKk=/1710982871448/pt_sporttv1/index.m3u8",
+        "url": "https://gelive.score806.cc/pt_sporttv1/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -383,9 +383,9 @@
         "name": "Sport TV 2",
         "logo": "https://image.acdsport.com/tvs/37.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/folOcQD6m4tZtQJhxL8PlfKr+31eIU1+LTXaaq62Vnw=/1710982871897/pt_sporttv2/index.m3u8",
+        "url": "https://gelive.score806.cc/pt_sporttv2/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     },
@@ -393,9 +393,9 @@
         "name": "Sport TV 3",
         "logo": "https://image.acdsport.com/tvs/38.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/tT3ODlaGzYoG4TZem5Rk5cjGEJLilX9MvkaxmaFihvE=/1710982872478/pt_sporttv3/index.m3u8",
+        "url": "https://gelive.score806.cc/pt_sporttv3/index.m3u8",
         "headers": {
-            "referer": "https://aesport.tv/",
+            "referer": "https://gelive.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         }
     }
