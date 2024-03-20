@@ -223,7 +223,7 @@
         "name": "FS1",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs1.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/evqGrXkckhsfAsv7xr+Oh3Zz+wFraH6AAdeIWs6qlJI=/1710981783531/us_fs1/index.m3u8",
+        "url": "https://ussec.score806.cc/oYjjx+FLXg1WTsja0fleNFHuph6nJWUuzNAFZX0FRpc=/1710981999195/us_fs1/index.m3u8",
         "headers": {
             "referer": "https://ussec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -233,7 +233,7 @@
         "name": "FS2",
         "logo": "https://image.acdsport.com/upload/Livetv/usfs2.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/aeSCR5q4o+j9WyJ8YzU9XZqN0PUuzhgpdGl7N8NrIoQ=/1710981785068/us_fs2/index.m3u8",
+        "url": "https://ussec.score806.cc/GXfmA6T9COagc41wcwArgztGm7vtGQQrZffE1GwBrzg=/1710981999639/us_fs2/index.m3u8",
         "headers": {
             "referer": "https://ussec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -243,7 +243,7 @@
         "name": "USA Network",
         "logo": "https://image.acdsport.com/tvs/88.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/yL9q6nSXNRPneGbwjfNuVEuTw8mSFARYm7tTXTDwS4M=/1710981787511/us_usa/index.m3u8",
+        "url": "https://ussec.score806.cc/xnw7t+_RZ4AhVz+O3yglUCTfgb61usjosigudQZLAxI=/1710982000110/us_usa/index.m3u8",
         "headers": {
             "referer": "https://ussec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -263,7 +263,7 @@
         "name": "CBS Sports Network",
         "logo": "https://image.acdsport.com/tvs/70.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/NNBT09Y2MPM0opC0QAR4FjtTzO6VGbLoawqfpVsdrEA=/1710981790731/us_cbssportsnetwork/index.m3u8",
+        "url": "https://ussec.score806.cc/h_9VNd0Q04F5KqG2g6Lbc6pUybMFteHSJ4gLAqJb6KM=/1710982001093/us_cbssportsnetwork/index.m3u8",
         "headers": {
             "referer": "https://ussec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -283,7 +283,7 @@
         "name": "Willow Cricket",
         "logo": "https://image.acdsport.com/upload/Livetv/uswillow.png",
         "group": "US Channels",
-        "url": "https://ussec.score806.cc/wIlwL0mz_KU4shu_JX6KcErKsaLtpTrJN6ZV1mWWoy8=/1710981793718/us_willow/index.m3u8",
+        "url": "https://ussec.score806.cc/dFue1bpwEG4OxeFkVIY0tc7jWfEKMhBStBRfpV9vpas=/1710982002092/us_willow/index.m3u8",
         "headers": {
             "referer": "https://ussec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -303,7 +303,7 @@
         "name": "BEIN SPORTS 1",
         "logo": "https://image.acdsport.com/tvs/40.png",
         "group": "France Channels",
-        "url": "https://nlsec.score806.cc/KroTb19U0Mpu9g2onWo76GXCA0ANadzld76lk2gGn64=/1710981796620/fr_beinsports1/index.m3u8",
+        "url": "https://nlsec.score806.cc/+UNilXPTVTolZIAixeCPsq_QqfDLS5r0_8W8fcolNOg=/1710982003061/fr_beinsports1/index.m3u8",
         "headers": {
             "referer": "https://nlsec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -313,7 +313,7 @@
         "name": "BEIN SPORTS 2",
         "logo": "https://image.acdsport.com/tvs/41.png",
         "group": "France Channels",
-        "url": "https://nlsec.score806.cc/HFFkTyEF8SVO626k75WehadPbYBiVx1KYpanU0yYlys=/1710981798468/fr_beinsports2/index.m3u8",
+        "url": "https://nlsec.score806.cc/VakF5long7AQChkZCa1YxJq2ZqOSdBzKiNH5zwg+hFg=/1710982003671/fr_beinsports2/index.m3u8",
         "headers": {
             "referer": "https://nlsec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -323,7 +323,7 @@
         "name": "RMC SPORT 1",
         "logo": "https://image.acdsport.com/tvs/13.png",
         "group": "France Channels",
-        "url": "https://nlsec.score806.cc/2YSFx5umLJLySBZikHaIe+Z3NHLUpmju1d6bLLUFYIU=/1710981799838/fr_rmcsport1/index.m3u8",
+        "url": "https://nlsec.score806.cc/ScHOb11Ywr2Pwr8jyNsR5e8MgJiaPTrc2dXMZwJQdMQ=/1710982004270/fr_rmcsport1/index.m3u8",
         "headers": {
             "referer": "https://nlsec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -333,7 +333,7 @@
         "name": "RMC SPORT 2",
         "logo": "https://image.acdsport.com/upload/Livetv/RMC_SPORT_2.png",
         "group": "France Channels",
-        "url": "https://nlsec.score806.cc/UFiEVzjjFn7JvjtUXmEalvXi7MG1GEU1yeYTDASARhY=/1710981801643/fr_rmcsport2/index.m3u8",
+        "url": "https://nlsec.score806.cc/iQn8uFhm3NUXs87Ml4e_inDW7L9i3Mmm7_g4ikB78Vs=/1710982004708/fr_rmcsport2/index.m3u8",
         "headers": {
             "referer": "https://nlsec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -343,7 +343,7 @@
         "name": "Eleven Sport 1",
         "logo": "https://image.acdsport.com/tvs/33.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/_UJngzotrlFIxaw1p5x_7ZcTZly7FYocXzNTm1L8kjA=/1710981803283/pt_elevensport1/index.m3u8",
+        "url": "https://nlsec.score806.cc/V2pnThP5fDoSZzVUE1PoE42kSdxKG4cnFX8HFW6r3R0=/1710982005174/pt_elevensport1/index.m3u8",
         "headers": {
             "referer": "https://nlsec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -353,7 +353,7 @@
         "name": "Eleven Sport 2",
         "logo": "https://image.acdsport.com/tvs/32.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/eA9tIleGDfUIwVKBvrP0pmcA8noBe6U964TFdj1dbCM=/1710981804722/pt_elevensport2/index.m3u8",
+        "url": "https://nlsec.score806.cc/1UkPnJi4CPOqXu1QsO929PbMaBysdukTdOW2+e2ACnU=/1710982005626/pt_elevensport2/index.m3u8",
         "headers": {
             "referer": "https://nlsec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -363,7 +363,7 @@
         "name": "Eleven Sport 3",
         "logo": "https://image.acdsport.com/tvs/31.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/xPZurSO+h9OkyexltRbdxv0LFn5S2vZ2UVdPtD9rfZs=/1710981806085/pt_elevensport3/index.m3u8",
+        "url": "https://nlsec.score806.cc/wieiW5dR6E0k1Dt7cCLDk1kne2Q9b82vT8dS_1xXh7c=/1710982006218/pt_elevensport3/index.m3u8",
         "headers": {
             "referer": "https://nlsec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -373,7 +373,7 @@
         "name": "Sport TV 1",
         "logo": "https://image.acdsport.com/tvs/36.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/IHmGuwC6wEK597M2OpA_wr_aVobfyotsSADhGRGwhn8=/1710981807872/pt_sporttv1/index.m3u8",
+        "url": "https://nlsec.score806.cc/lNsdgyvhNvjkOxJaS9S+E7vAHHFoOmS4BNGJ4pmPsaw=/1710982006816/pt_sporttv1/index.m3u8",
         "headers": {
             "referer": "https://nlsec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -383,7 +383,7 @@
         "name": "Sport TV 2",
         "logo": "https://image.acdsport.com/tvs/37.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/vmFjqT4r1ZAEHSmkei8Q4sR9kIrGZhoUI9QV4S3oszU=/1710981809660/pt_sporttv2/index.m3u8",
+        "url": "https://nlsec.score806.cc/J8SOT+NcNlt19VcmtQvcLHrrqRXNq_e4pRUS1eYUbZM=/1710982007445/pt_sporttv2/index.m3u8",
         "headers": {
             "referer": "https://nlsec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -393,7 +393,7 @@
         "name": "Sport TV 3",
         "logo": "https://image.acdsport.com/tvs/38.png",
         "group": "Portugal Channels",
-        "url": "https://nlsec.score806.cc/ALgJhxI_QwQIZuoEULmCUYjVQhvGi05TC6K26RAAnto=/1710981798972/pt_sporttv3/index.m3u8",
+        "url": "https://nlsec.score806.cc/m1UGz2flJ_S7Tv+tLm+2e7dQ1FUAOonFeWwgFQoBdNQ=/1710981999015/pt_sporttv3/index.m3u8",
         "headers": {
             "referer": "https://nlsec.score806.cc/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
