@@ -13,9 +13,10 @@ class AESport(BaseService):
 
     def _get_data(self) -> dict:
         soup = BeautifulSoup(self._get_src(), "html.parser")
-        d_urls = [a.get("data-url") for a in soup.find_all("a", {"data-url": True})]
-        for d_url in d_urls:
-            base_url = get_base_url(d_url) + "/"
+        base_url = "https://gelive.score806.cc/"
+        #d_urls = [a.get("data-url") for a in soup.find_all("a", {"data-url": True})]
+        #for d_url in d_urls:
+            #base_url = get_base_url(d_url) + "/"
 
         channels_data = []
         pattern = r'/([^/]+/index\.m3u8)'
