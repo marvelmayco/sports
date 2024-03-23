@@ -243,7 +243,7 @@
         "name": "USA Network",
         "logo": "https://image.acdsport.com/tvs/88.png",
         "group": "US Channels",
-        "url": "https://gelive.score806.cc/us_usa/index.m3u8",
+        "url": "https://gelive.score806.cc/us_fs2/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
