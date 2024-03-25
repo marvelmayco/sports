@@ -321,7 +321,7 @@
     },
     {
         "name": "RMC SPORT 1",
-        "logo": "https://image.acdsport.com/tvs/13.png",
+        "logo": "https://image.acdsport.com/upload/tvs/13.png",
         "group": "France Channels",
         "url": "https://gelive.score806.cc/fr_rmcsport1/index.m3u8",
         "headers": {
