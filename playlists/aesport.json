@@ -363,7 +363,7 @@
         "name": "Eleven Sport 3",
         "logo": "https://image.azencode.com/tvs/31.png",
         "group": "Portugal Channels",
-        "url": "https://gelive.score806.cc/pt_elevensport3/index.m3u8",
+        "url": "https://gelive.score806.cc/pt_elevensport2/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
