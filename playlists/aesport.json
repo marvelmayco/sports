@@ -213,7 +213,7 @@
         "name": "MTV",
         "logo": "https://image.azencode.com/upload/Livetv/ukmtv.png",
         "group": "UK Channels",
-        "url": "https://gelive.score806.cc/uk_mtv/index.m3u8",
+        "url": "https://gelive.score806.cc/uk_bbcnews/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -243,7 +243,7 @@
         "name": "USA Network",
         "logo": "https://image.azencode.com/tvs/88.png",
         "group": "US Channels",
-        "url": "https://gelive.score806.cc/us_usa/index.m3u8",
+        "url": "https://gelive.score806.cc/us_fs2/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -333,7 +333,7 @@
         "name": "RMC SPORT 2",
         "logo": "https://image.azencode.com/upload/Livetv/RMC_SPORT_2.png",
         "group": "France Channels",
-        "url": "https://gelive.score806.cc/fr_rmcsport2/index.m3u8",
+        "url": "https://gelive.score806.cc/fr_rmcsport1/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -343,7 +343,7 @@
         "name": "Eleven Sport 1",
         "logo": "https://image.azencode.com/tvs/33.png",
         "group": "Portugal Channels",
-        "url": "https://gelive.score806.cc/pt_elevensport1/index.m3u8",
+        "url": "https://gelive.score806.cc/fr_rmcsport1/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -363,7 +363,7 @@
         "name": "Eleven Sport 3",
         "logo": "https://image.azencode.com/tvs/31.png",
         "group": "Portugal Channels",
-        "url": "https://gelive.score806.cc/pt_elevensport3/index.m3u8",
+        "url": "https://gelive.score806.cc/pt_elevensport2/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -373,7 +373,7 @@
         "name": "Sport TV 1",
         "logo": "https://image.azencode.com/tvs/36.png",
         "group": "Portugal Channels",
-        "url": "https://gelive.score806.cc/pt_sporttv1/index.m3u8",
+        "url": "https://gelive.score806.cc/pt_elevensport2/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -383,7 +383,7 @@
         "name": "Sport TV 2",
         "logo": "https://image.azencode.com/tvs/37.png",
         "group": "Portugal Channels",
-        "url": "https://gelive.score806.cc/pt_sporttv2/index.m3u8",
+        "url": "https://gelive.score806.cc/pt_elevensport2/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
