@@ -143,7 +143,7 @@
         "name": "BBC Two",
         "logo": "https://image.azencode.com/upload/Livetv/ukbbc2.png",
         "group": "UK Channels",
-        "url": "https://gelive.score806.cc/uk_bbc2/index.m3u8",
+        "url": "https://gelive.score806.cc/uk_bbc1/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -193,7 +193,7 @@
         "name": "Channel 5",
         "logo": "https://image.azencode.com/upload/Livetv/ukchannel5.png",
         "group": "UK Channels",
-        "url": "https://gelive.score806.cc/uk_channel5/index.m3u8",
+        "url": "https://gelive.score806.cc/uk_channel4/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -203,7 +203,7 @@
         "name": "BBC World News",
         "logo": "https://image.azencode.com/tvs/67.png",
         "group": "UK Channels",
-        "url": "https://gelive.score806.cc/uk_bbcnews/index.m3u8",
+        "url": "https://gelive.score806.cc/uk_channel4/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -213,7 +213,7 @@
         "name": "MTV",
         "logo": "https://image.azencode.com/upload/Livetv/ukmtv.png",
         "group": "UK Channels",
-        "url": "https://gelive.score806.cc/uk_mtv/index.m3u8",
+        "url": "https://gelive.score806.cc/uk_channel4/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -283,7 +283,7 @@
         "name": "Willow Cricket",
         "logo": "https://image.azencode.com/upload/Livetv/uswillow.png",
         "group": "US Channels",
-        "url": "https://gelive.score806.cc/us_willow/index.m3u8",
+        "url": "https://gelive.score806.cc/us_nbatv/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -333,7 +333,7 @@
         "name": "RMC SPORT 2",
         "logo": "https://image.azencode.com/upload/Livetv/RMC_SPORT_2.png",
         "group": "France Channels",
-        "url": "https://gelive.score806.cc/fr_rmcsport2/index.m3u8",
+        "url": "https://gelive.score806.cc/fr_rmcsport1/index.m3u8",
         "headers": {
             "referer": "https://aesport.tv/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
