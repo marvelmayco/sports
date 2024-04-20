@@ -240,16 +240,6 @@
         }
     },
     {
-        "name": "USA Network",
-        "logo": "https://image.azencode.com/tvs/88.png",
-        "group": "US Channels",
-        "url": "https://gelive.score806.cc/us_usa/index.m3u8",
-        "headers": {
-            "referer": "https://aesport.tv/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-        }
-    },
-    {
         "name": "NFL Network",
         "logo": "https://image.azencode.com/upload/Livetv/nfl-network.png",
         "group": "US Channels",
