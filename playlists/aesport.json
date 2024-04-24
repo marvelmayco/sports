@@ -40,6 +40,16 @@
         }
     },
     {
+        "name": "TNT SPORT 4",
+        "logo": "https://image.azencode.com/upload/Livetv/tnt4.jpeg",
+        "group": "UK Channels",
+        "url": "https://gelive.score806.cc/uk_bts4/index.m3u8",
+        "headers": {
+            "referer": "https://aesport.tv/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+        }
+    },
+    {
         "name": "PREMIER SPORTS 2",
         "logo": "https://image.azencode.com/upload/Livetv/Premier Sports 2.png",
         "group": "UK Channels",
