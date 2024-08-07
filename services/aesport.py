@@ -8,12 +8,12 @@ class AESport(BaseService):
     def __init__(self) -> None:
         super().__init__(
             SERVICE_NAME="AESport",
-            SERVICE_URL="https://aesport.tv/live-tv.html",
+            SERVICE_URL="https://aesport.tv/tv.html",
         )
 
     def _get_data(self) -> dict:
         soup = BeautifulSoup(self._get_src(), "html.parser")
-        base_url = "https://gelive.score806.cc/"
+        base_url = "https://liveus2.score806.cc/"
         #d_urls = [a.get("data-url") for a in soup.find_all("a", {"data-url": True})]
         #for d_url in d_urls:
             #base_url = get_base_url(d_url) + "/"
